@@ -3,6 +3,7 @@ def add(x, y):
 
 def multiply(x,y):
     return x * y
+#TODO: division
 
 #var=
 result = add(1, 2)
